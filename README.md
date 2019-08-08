@@ -1,0 +1,2 @@
+# springcloudConfig
+测试springcloud的配置服务
